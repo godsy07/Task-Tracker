@@ -11,7 +11,7 @@
       "text": "Meeting at School",
       "day": "Feb 6th at 1:30am",
       "remider": true,
-      "reminder": true
+      "reminder": false
     }
   ]
 }
